@@ -1,0 +1,64 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.aaa{
+   width: 65%;
+   padding-left: 80px;
+}
+.bbb{
+    width: 30%;
+    padding-left: 80px;
+}
+img{
+    width: 250px;
+    border-radius: 100px;
+    border: 10px oldlace solid;
+}
+.cc{
+    display: flex;
+    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?size=626&ext=jpg);
+
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(red,blue);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 7px;
+}
+.aa{
+    color: blue;
+}
+h3{
+    color: orange ;
+}
+.dd{
+    display: flex;
+    padding-left: 10%;
+  
+}
+.eee{
+    width:40%;
+    margin-left: 7%;
+    box-shadow: 10px 10px 40px blue;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 60px;
+    border-left: solid 10px;
+    border-radius: 10px;
+    border-image: linear-gradient(black,red) ;
+    border-image-slice: 1;
+
+}
+.ee{
+    width:40% ;
+    box-shadow: 10px 10px 40px blue;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 60px;
+    border-left: solid 10px;
+    border-radius: 10px;
+    border-image: linear-gradient(black,red) ;
+    border-image-slice: 1;
+
+}
